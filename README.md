@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Corentin 👋
+
+🌱 I’m currently learning web development thanks to web@cadémie by EPITECH Lille
+
+📫 How to reach me: corentincollery@yahoo.fr (personal address) || corentin.collery@epitech.eu (school address)
 
 <!--
 **ColleryCorentin/ColleryCorentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
