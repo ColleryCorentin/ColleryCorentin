@@ -1,4 +1,4 @@
-### Hi there, I'm Corentin 👋
+## Hi there, I'm Corentin 👋
 
 I’m currently learning web development thanks to MSC by EPITECH Lille
 🌱
