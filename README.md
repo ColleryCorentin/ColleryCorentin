@@ -25,7 +25,7 @@ Les Technos :
 [![HTML](https://img.shields.io/badge/HTML-5F5F5F?logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-5F5F5F?logo=css3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JS](https://img.shields.io/badge/JavaScript-5F5F5F?logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PHP](https://img.shields.io/badge/PHP-5F5F5F?logo=php&logoColor=777BB4)](https://www.php.net/)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 [![Node.js](https://img.shields.io/badge/Node.js-5F5F5F?logo=node.js&logoColor=339933)](https://nodejs.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-5F5F5F?logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-5F5F5F?logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
